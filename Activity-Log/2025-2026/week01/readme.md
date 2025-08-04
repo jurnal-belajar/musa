@@ -1,5 +1,7 @@
 # Rangkuman Kegiatan Pekanan: Week 01 (14 - 20 Juli 2025)
 
+[Kembali](../readme.md)
+
 ## 🔍 Ringkasan Kegiatan per Hari
 
 - **14 Juli 2025**  
