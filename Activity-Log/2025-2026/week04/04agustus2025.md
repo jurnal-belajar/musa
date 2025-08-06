@@ -18,7 +18,7 @@
    - Durasi: 30 menit
 
 4. Literasi:
-   - Kegiatan: Memabca AISAR Jilid 2
+   - Kegiatan: Memabaca AISAR Jilid 2
    - Alat/bahan: Buku AISAR Lish Shighar Jilid 2
    - Durasi: 30 menit
 
