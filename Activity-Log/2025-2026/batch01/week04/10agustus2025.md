@@ -2,23 +2,22 @@
 [Kembali](readme.md)
 
 ## 📌 Kegiatan
-1. Kegiatan Utama:
-   - Membuat cemilan ubi panggang keju bersama
-   - Langkah: mengupas ubi, mengukus, menata di tray baking, memenyet, mengoles minyak, menambahkan parutan keju
-   - Alat/bahan: ubi, minyak, keju parut, oven, loyang, alat parut
-   - Durasi: ±60 menit
+1. Cooking & Crafting
+   - Kegiatan: Membuat kue cubit; membuat mobil kardus; mengamati tanaman
+   - Durasi: ±90 menit
 
 ## 🎯 Capaian Kegiatan
-- Menghitung berat ubi sebelum dan sesudah dikupas  
-- Menghitung jumlah potongan ubi dan membaginya dalam porsi  
-- Menyesuaikan suhu oven dan waktu pemanggangan  
-- Mengenal konsep dasar **perubahan fisik akibat panas (sains dasar)**
+- Meningkatkan kreativitas (mobil kardus)
+- Belajar memasak kue cubit
+- Observasi pertumbuhan tanaman
 
 ## 🚧 Kendala
-- Beberapa potongan ubi menempel di loyang karena olesan minyak kurang merata.
+- Tidak disebutkan
 
 ## 🖼️ Dokumentasi Kegiatan
-![Menata ubi di loyang](img/2025-08-10_1.jpg)
-![Memanggang ubi di oven](img/2025-08-10_2.jpg)
+![Foto](img/2025-08-10_1.jpg)
+![Foto](img/2025-08-10_2.jpg)
+![Foto](img/2025-08-10_3.jpg)
+![Foto](img/2025-08-10_4.jpg)
 
 [Kembali](readme.md)

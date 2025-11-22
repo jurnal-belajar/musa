@@ -18,6 +18,8 @@
 
 ## 🎯 Capaian Kegiatan
 - AISAR sampai jilid 2 hal 8
+- Belajar memasak menu tradisional
+- Melatih kemandirian beres-beres
 ## 🚧 Kendala
 - 
 
@@ -25,5 +27,10 @@
 ![Aisar](img/20250807-aisar.jpeg)
 ![SC B.Arab](img/20250807-scbarab.jpeg)
 ![Buat Bakwan](img/20250807-bakwan.jpeg)
+![Foto](img/2025-08-08_1.jpg)
+![Foto](img/2025-08-08_2.jpg)
+![Foto](img/2025-08-08_3.jpg)
+![Foto](img/2025-08-08_4.jpg)
+![Foto](img/2025-08-08_5.jpg)
 
 [Kembali](readme.md)
