@@ -1,6 +1,6 @@
 # Rangkuman Kegiatan Pekanan: Week 03 (28 Juli - 03 Agustus 2025)
 
-[Kembali](../readme.md)
+[Kembali](../../readme.md)
 
 ## 🔍 Ringkasan Kegiatan per Hari
 

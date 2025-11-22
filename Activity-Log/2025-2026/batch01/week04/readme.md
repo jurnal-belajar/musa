@@ -1,6 +1,6 @@
 # Rangkuman Kegiatan Pekanan: Week 04 (04 - 10 Agustus 2025)
 
-[Kembali](../readme.md)
+[Kembali](../../readme.md)
 
 ## 🔍 Ringkasan Kegiatan per Hari
 
