@@ -26,6 +26,7 @@ BASE_DIR=${1:-./2025-2026}
 BATCH_NAME=${2:-batchxx}
 START_DATE_STR=$3
 END_DATE_STR=$4
+UPDATE_README="${5:-}"
 
 BATCH_DIR="${BASE_DIR%/}/${BATCH_NAME}"
 
@@ -108,7 +109,7 @@ for idx, wstart, wend in weeks:
     readme = os.path.join(wf, "readme.md")
     if not os.path.exists(readme):
         with open(readme, "w", encoding="utf-8") as f:
-            f.write(f"# {wname.capitalize()} ({wstart.day:02d} {months[wstart.month-1].capitalize()} {wstart.year} - {wend.day:02d} {months[wend.month-1].capitalize()} {wend.year}) - Rangkuman Mingguan\n\n")
+            f.write(f"# Rangkuman Kegiatan Pekanan: {wname.capitalize()} ({wstart.day:02d} {months[wstart.month-1].capitalize()} {wstart.year} - {wend.day:02d} {months[wend.month-1].capitalize()} {wend.year})\n\n")
             f.write("[Kembali](../../readme.md)\n\n")
             f.write("## 🔍 Ringkasan Kegiatan per Hari\n\n")
 
@@ -142,5 +143,36 @@ print(f"Created batch folder: {BATCH_DIR}")
 PY
 
 echo "Done. Check: $BATCH_DIR"
+
+######################################
+# UPDATE READme NAVIGATION
+######################################
+if [[ "$UPDATE_README" == "--update-readme" ]]; then
+  echo "Updating navigation in $BASE_DIR/readme.md ..."
+  pushd "$BASE_DIR" >/dev/null
+
+  NAV_TMP="/tmp/_batch_nav.md"
+  echo "## 🔍 Ringkasan Kegiatan per pekan" > "$NAV_TMP"
+  echo "" >> "$NAV_TMP"
+
+  for b in batch*/; do
+    bn=$(basename "$b")
+    echo "### ${bn}" >> "$NAV_TMP"
+    for w in $(ls -1 "$b" | grep -E "^week[0-9]{2}$" | sort); do
+      wl=$(head -n1 "$b/$w/readme.md" | sed 's/^# //')
+      echo "- [${wl}](${b}${w}/readme.md)" >> "$NAV_TMP"
+    done
+    echo "" >> "$NAV_TMP"
+  done
+
+  awk -v start='<!-- BATCH_NAV_START -->' -v end='<!-- BATCH_NAV_END -->' '
+    $0==start { print; system("cat '"$NAV_TMP"'"); skip=1; next }
+    $0==end   { print; skip=0; next }
+    skip!=1 { print }
+  ' readme.md > /tmp/new && mv /tmp/new readme.md
+
+  popd >/dev/null
+  echo "Navigation updated."
+fi
 
 # End of file
