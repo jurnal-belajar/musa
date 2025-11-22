@@ -2,8 +2,6 @@
 
 [Kembali](../readme.md)
 
-## 🔍 Ringkasan Kegiatan per pekan
-
 <!-- BATCH_NAV_START -->
 ## 🔍 Ringkasan Kegiatan per pekan
 
