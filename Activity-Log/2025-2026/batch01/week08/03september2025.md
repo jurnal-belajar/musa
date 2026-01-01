@@ -2,18 +2,17 @@
 [Kembali](readme.md)
 
 ## 📌 Kegiatan
-1. Kegiatan Utama:
-   - Kegiatan: 
-   - Alat/bahan: 
-   - Durasi: 
+1. Kelas Bahasa Indonesia
+   - Kegiatan: Mengikuti kelas Bahasa Indonesia dengan materi memahami karya ilmiah dan menyimak presentasi teman.
+   - Alat/bahan: Buku materi, catatan
+   - Durasi: ±90 menit
 
 ## 🎯 Capaian Kegiatan
-- 
+- Memahami konsep dasar karya ilmiah.
+- Melatih kemampuan menyimak presentasi.
+- Mengembangkan kemampuan berpikir kritis melalui diskusi.
 
 ## 🚧 Kendala
-- 
-
-## 🖼️ Dokumentasi Kegiatan
-![Foto 1](img/2025-09-03_1.jpeg)
+- Perlu waktu untuk memahami istilah baru dalam materi.
 
 [Kembali](readme.md)

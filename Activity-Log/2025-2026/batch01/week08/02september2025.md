@@ -2,18 +2,17 @@
 [Kembali](readme.md)
 
 ## 📌 Kegiatan
-1. Kegiatan Utama:
-   - Kegiatan: 
-   - Alat/bahan: 
-   - Durasi: 
+1. Kelas Bahasa Inggris
+   - Kegiatan: Belajar membaca teks Bahasa Inggris, menulis kalimat, dan menjawab pertanyaan dari bacaan.
+   - Alat/bahan: Buku Bahasa Inggris, alat tulis
+   - Durasi: ±90 menit
 
 ## 🎯 Capaian Kegiatan
-- 
+- Melatih kemampuan membaca dan menulis Bahasa Inggris.
+- Memahami isi bacaan dan menjawab pertanyaan sederhana.
+- Menambah kosakata Bahasa Inggris.
 
 ## 🚧 Kendala
-- 
-
-## 🖼️ Dokumentasi Kegiatan
-![Foto 1](img/2025-09-02_1.jpeg)
+- Beberapa kosakata masih perlu dijelaskan lebih lanjut.
 
 [Kembali](readme.md)

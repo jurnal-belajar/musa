@@ -2,18 +2,12 @@
 [Kembali](readme.md)
 
 ## 📌 Kegiatan
-1. Kegiatan Utama:
-   - Kegiatan: 
-   - Alat/bahan: 
-   - Durasi: 
-
-## 🎯 Capaian Kegiatan
-- 
-
-## 🚧 Kendala
-- 
+- Urban farming  
+  - Menyiram tanaman  
+  - Melakukan dokumentasi  
+  - Mengirimkan update kondisi tanaman ke Kak Andito
 
 ## 🖼️ Dokumentasi Kegiatan
-![Foto 1](img/2025-09-22_1.jpeg)
+![Foto](img/2025-09-22_1.jpg)
 
 [Kembali](readme.md)

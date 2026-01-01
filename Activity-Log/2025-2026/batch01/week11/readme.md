@@ -1,39 +1,35 @@
-# Rangkuman Kegiatan Pekanan: Week11 (22 September 2025 - 28 September 2025)
+# Rangkuman Kegiatan Pekanan  
+## Week 11 – Batch 01 (22 – 26 September 2025)
 
 [Kembali](../../readme.md)
 
-## 🔍 Ringkasan Kegiatan per Hari
+## 🔍 Ringkasan Kegiatan
 
 - **22 September 2025**  
-  Fokus: 
-  Capaian: 
+  Urban farming: menyiram tanaman, melakukan dokumentasi, dan mengirimkan update kondisi tanaman ke Kak Andito.  
   [Lihat log harian](./22september2025.md)
 
-- **23 September 2025**  
-  Fokus: 
-  Capaian: 
-  [Lihat log harian](./23september2025.md)
-
-- **24 September 2025**  
-  Fokus: 
-  Capaian: 
-  [Lihat log harian](./24september2025.md)
-
-- **25 September 2025**  
-  Fokus: 
-  Capaian: 
-  [Lihat log harian](./25september2025.md)
-
 - **26 September 2025**  
-  Fokus: 
-  Capaian: 
+  Cooking class dan melukis dengan cat air: membuat lupis, menyusul materi pekan lalu dengan menu lemper teriyaki, serta melukis bersama Tante Dina.  
   [Lihat log harian](./26september2025.md)
 
+---
 
 ## 📈 Capaian Mingguan
 
-- 
+- Kegiatan urban farming dilakukan dengan menyiram tanaman, melakukan dokumentasi, dan menyampaikan update kondisi tanaman.
+- Kegiatan cooking class mencakup pembuatan lupis dan penyusulan materi pekan sebelumnya (lemper teriyaki).
+- Kegiatan seni dilakukan melalui aktivitas melukis menggunakan cat air bersama pendamping.
 
-## ⚠️ Tantangan / Evaluasi
+---
 
-- 
+## ⚠️ Tantangan
+
+- Tidak terdapat catatan tantangan atau kendala spesifik yang tertulis pada PicDiary untuk minggu ini.
+
+---
+
+## 📝 Catatan
+
+- Minggu ini hanya memuat dua hari kegiatan yang tercatat pada PicDiary.
+- Rangkuman disusun sepenuhnya berdasarkan catatan harian tanpa penambahan interpretasi.

@@ -1,0 +1,23 @@
+# 12 Desember 2025 - Log Kegiatan Harian
+
+## 📌 Kegiatan
+1. Cooking Class
+   - Kegiatan: Mengikuti SC cooking class.
+   - Alat/bahan: Bahan memasak
+   - Durasi: ±60 menit
+
+2. Melukis
+   - Kegiatan: Mengikuti kegiatan melukis dengan media cat air.
+   - Alat/bahan: Cat air dan kertas gambar
+   - Durasi: ±45 menit
+
+## 🎯 Capaian Kegiatan
+- Mengikuti kegiatan cooking class sesuai arahan.
+- Mengikuti kegiatan melukis dengan cat air.
+
+## 🚧 Kendala
+- Tidak ada kendala yang dicatat.
+
+## 🖼️ Dokumentasi Kegiatan
+![Foto](img/2025-12-12_1.jpg)
+![Foto](img/2025-12-12_2.jpg)
