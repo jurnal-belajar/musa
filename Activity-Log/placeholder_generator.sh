@@ -145,34 +145,17 @@ PY
 echo "Done. Check: $BATCH_DIR"
 
 ######################################
-# UPDATE READme NAVIGATION
+# UPDATE README (via Python helper)
 ######################################
 if [[ "$UPDATE_README" == "--update-readme" ]]; then
-  echo "Updating navigation in $BASE_DIR/readme.md ..."
-  pushd "$BASE_DIR" >/dev/null
+  SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
+  PY_UPDATE_SCRIPT="$SCRIPT_DIR/update_readme.py"
 
-  NAV_TMP="/tmp/_batch_nav.md"
-  echo "## 🔍 Ringkasan Kegiatan per pekan" > "$NAV_TMP"
-  echo "" >> "$NAV_TMP"
+  if [[ ! -f "$PY_UPDATE_SCRIPT" ]]; then
+    echo "ERROR: update_readme.py not found at $PY_UPDATE_SCRIPT"
+    exit 1
+  fi
 
-  for b in batch*/; do
-    bn=$(basename "$b")
-    echo "### ${bn}" >> "$NAV_TMP"
-    for w in $(ls -1 "$b" | grep -E "^week[0-9]{2}$" | sort); do
-      wl=$(head -n1 "$b/$w/readme.md" | sed 's/^# //')
-      echo "- [${wl}](${b}${w}/readme.md)" >> "$NAV_TMP"
-    done
-    echo "" >> "$NAV_TMP"
-  done
-
-  awk -v start='<!-- BATCH_NAV_START -->' -v end='<!-- BATCH_NAV_END -->' '
-    $0==start { print; system("cat '"$NAV_TMP"'"); skip=1; next }
-    $0==end   { print; skip=0; next }
-    skip!=1 { print }
-  ' readme.md > /tmp/new && mv /tmp/new readme.md
-
-  popd >/dev/null
-  echo "Navigation updated."
+  echo "Updating readme.md via update_readme.py ..."
+  python3 "$PY_UPDATE_SCRIPT" "$BASE_DIR" "$BATCH_NAME"
 fi
-
-# End of file
