@@ -21,15 +21,24 @@ Voice Note → Whisper (transkripsi) → Claude AI (format) → .md file → git
 - Jalankan `/newbot` dan ikuti instruksinya
 - Salin **Bot Token** yang diberikan
 
-### 2. Dapatkan API Keys
-- **OpenAI API Key**: [platform.openai.com](https://platform.openai.com)
+### 2. Dapatkan API Key
 - **Anthropic API Key**: [console.anthropic.com](https://console.anthropic.com)
+- **OpenAI tidak diperlukan** — transkripsi audio menggunakan Whisper lokal (gratis, offline)
 
 ### 3. Install Dependencies
 ```bash
 cd bot/
 pip install -r requirements.txt
+
+# Install ffmpeg (wajib untuk Whisper)
+# Ubuntu/Debian:
+sudo apt install ffmpeg
+
+# Mac:
+brew install ffmpeg
 ```
+
+> Model Whisper akan otomatis didownload saat pertama kali dijalankan (~74MB untuk model `base`).
 
 ### 4. Konfigurasi Environment
 ```bash
@@ -40,9 +49,9 @@ cp .env.example .env
 Isi `.env`:
 ```env
 TELEGRAM_BOT_TOKEN=...
-OPENAI_API_KEY=...
 ANTHROPIC_API_KEY=...
-ALLOWED_USER_IDS=123456789   # Telegram user ID kamu
+ALLOWED_USER_IDS=123456789   # Telegram user ID kamu (dari @userinfobot)
+WHISPER_MODEL=base           # atau small/medium untuk akurasi lebih tinggi
 AUTO_PUSH=true
 ```
 
