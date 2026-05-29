@@ -3,17 +3,14 @@
 
 ## 📌 Kegiatan
 1. Kegiatan Utama:
-   - Kegiatan: 
-   - Alat/bahan: 
-   - Durasi: 
+   - Kegiatan: -
+   - Alat/bahan: -
+   - Durasi: -
 
 ## 🎯 Capaian Kegiatan
 - 
 
 ## 🚧 Kendala
 - 
-
-## 🖼️ Dokumentasi Kegiatan
-![Foto 1](img/2026-01-29_1.jpeg)
 
 [Kembali](readme.md)

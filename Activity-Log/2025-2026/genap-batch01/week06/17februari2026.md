@@ -3,17 +3,15 @@
 
 ## 📌 Kegiatan
 1. Kegiatan Utama:
-   - Kegiatan: 
-   - Alat/bahan: 
-   - Durasi: 
+   - Kegiatan: Abang ikut taklim/kajian bersama Baba. Mendengarkan materi keagamaan langsung dari sumber, latihan adab majelis ilmu (duduk tenang, menyimak, menjawab salam).
+   - Alat/bahan: -
+   - Durasi: -
 
 ## 🎯 Capaian Kegiatan
-- 
+- Pembiasaan mengikuti kajian dan adab di majelis ilmu.
+- Bonding dengan Baba lewat aktivitas spiritual.
 
 ## 🚧 Kendala
-- 
-
-## 🖼️ Dokumentasi Kegiatan
-![Foto 1](img/2026-02-17_1.jpeg)
+- -
 
 [Kembali](readme.md)

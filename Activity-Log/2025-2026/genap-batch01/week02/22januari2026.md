@@ -3,17 +3,14 @@
 
 ## 📌 Kegiatan
 1. Kegiatan Utama:
-   - Kegiatan: 
-   - Alat/bahan: 
-   - Durasi: 
+   - Kegiatan: sementara masih aktifitas di dalam rumah. Ikut kelas sc kak Asri dan Pak Suparno.
+   - Alat/bahan: -
+   - Durasi: -
 
 ## 🎯 Capaian Kegiatan
-- 
+- menambah kosakata dalam bahasa jawa dan bahasa arab
 
 ## 🚧 Kendala
-- 
-
-## 🖼️ Dokumentasi Kegiatan
-![Foto 1](img/2026-01-22_1.jpeg)
+- kondisi badan masih belum sembuh total jd masih banyak waktu istirahat
 
 [Kembali](readme.md)
