@@ -39,3 +39,13 @@
 - [Rangkuman Kegiatan Pekanan: Week06 (16 Februari 2026 - 22 Februari 2026)](genap-batch01/week06/readme.md)
 - [Rangkuman Kegiatan Pekanan: Week07 (23 Februari 2026 - 01 Maret 2026)](genap-batch01/week07/readme.md)
 - [Rangkuman Kegiatan Pekanan: Week08 (02 Maret 2026 - 08 Maret 2026)](genap-batch01/week08/readme.md)
+
+### genap-batch02
+- [Rangkuman Kegiatan Pekanan: Week01 (06 April 2026 - 12 April 2026)](genap-batch02/week01/readme.md)
+- [Rangkuman Kegiatan Pekanan: Week02 (13 April 2026 - 19 April 2026)](genap-batch02/week02/readme.md)
+- [Rangkuman Kegiatan Pekanan: Week03 (20 April 2026 - 26 April 2026)](genap-batch02/week03/readme.md)
+- [Rangkuman Kegiatan Pekanan: Week04 (27 April 2026 - 03 Mei 2026)](genap-batch02/week04/readme.md)
+- [Rangkuman Kegiatan Pekanan: Week05 (04 Mei 2026 - 10 Mei 2026)](genap-batch02/week05/readme.md)
+- [Rangkuman Kegiatan Pekanan: Week06 (11 Mei 2026 - 17 Mei 2026)](genap-batch02/week06/readme.md)
+- [Rangkuman Kegiatan Pekanan: Week07 (18 Mei 2026 - 24 Mei 2026)](genap-batch02/week07/readme.md)
+- [Rangkuman Kegiatan Pekanan: Week08 (25 Mei 2026 - 31 Mei 2026)](genap-batch02/week08/readme.md)
